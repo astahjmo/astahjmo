@@ -1,8 +1,8 @@
+##Hello there
 <p align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/020/536/498/original/vinicius-leonidas-grandark.gif?1568158021" width="350" title="hover text">
-  <img src="https://i.imgur.com/Xb5CB5j.gif" width="150" alt="accessibility text">
+  <img src="https://i.imgur.com/5HXDsn9.gif" width="150" alt="Grandark" href="https://www.artstation.com/artwork/dOBdmX" title="Grandark">
 </p>
-### Hello every 👋
 
 <!--
 **astahjmo/astahjmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
