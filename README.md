@@ -1,4 +1,5 @@
-### Hi there 👋
+![Grandark](https://cdna.artstation.com/p/assets/images/images/020/536/498/original/vinicius-leonidas-grandark.gif?1568158021)
+### Hello every 👋
 
 <!--
 **astahjmo/astahjmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
