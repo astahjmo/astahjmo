@@ -1,20 +1,12 @@
-##Hello there
+<h2 align="center">That's the reason I exist</h2>
+
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/020/536/498/original/vinicius-leonidas-grandark.gif?1568158021" width="350" title="hover text">
-  <img src="https://i.imgur.com/5HXDsn9.gif" width="150" alt="Grandark" href="https://www.artstation.com/artwork/dOBdmX" title="Grandark">
+  <img src="https://i.imgur.com/5HXDsn9.gif" width="500" alt="Grandark" href="https://www.artstation.com/artwork/dOBdmX" title="Grandark">
 </p>
 
-<!--
-**astahjmo/astahjmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm astah (or astaroth)  
+I choose this nickname to remember my beautiful story with the game Grand Chase  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:top_language-->
+<!--END_SECTION:top_language-->
+</p>
