@@ -8,5 +8,6 @@ Hello, I'm astah (or astaroth)
 I choose this nickname to remember my beautiful story with the game Grand Chase  
 
 <!--START_SECTION:top_language-->
+a
 <!--END_SECTION:top_language-->
 </p>
