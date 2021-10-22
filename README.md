@@ -1,4 +1,7 @@
-![Grandark](https://cdna.artstation.com/p/assets/images/images/020/536/498/original/vinicius-leonidas-grandark.gif?1568158021)
+<p align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/020/536/498/original/vinicius-leonidas-grandark.gif?1568158021" width="350" title="hover text">
+  <img src="https://cdna.artstation.com/p/assets/images/images/020/536/498/original/vinicius-leonidas-grandark.gif?1568158021" width="350" alt="accessibility text">
+</p>
 ### Hello every 👋
 
 <!--
