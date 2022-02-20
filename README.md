@@ -11,4 +11,4 @@ I choose this nickname to remember my beautiful story with the game Grand Chase
 
 ## contact
 
-discord: Astaroth#8484
+discord: astaroth#0373
