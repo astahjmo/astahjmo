@@ -10,7 +10,8 @@ I choose this nickname to remember my beautiful story with the game Grand Chase
 
 - Now I'm learning C and python
 
-<a herf="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/stats/cl156am48000609l23tbpainh?cursusId=60}" alt="johmatos's 42 stats" /></a>
+[![johmatos's 42 stats](https://badge42.vercel.app/api/v2/stats/cl156am48000609l23tbpainh?cursusId=60)](https://github.com/astahjmo)
+
 ## contact
 
 discord: astaroth#0373
