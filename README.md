@@ -6,7 +6,7 @@
 
 
 Hello, I'm astah (or astaroth)  
-I choose this nickname to remember my beautiful story with the game Grand Chase  
+I choose this nickname to remember my beautiful history with the game Grand Chase  
 
 - Now I'm learning C and python
 
