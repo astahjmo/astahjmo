@@ -20,4 +20,3 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
-          REPOSITORY: astahjmo/astahjmo"
