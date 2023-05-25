@@ -13,3 +13,5 @@ I choose this nickname to remember my beautiful history with the game Grand Chas
 ## contact
 
 discord: astaroth#0373
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
