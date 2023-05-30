@@ -14,9 +14,9 @@ I choose this nickname to remember my beautiful history with the game Grand Chas
 
 discord: astaroth#0373
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.6%20thousand%20lines%20of%20code-blue)
 
@@ -59,15 +59,15 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        5 hrs 6 mins        █████████████████████████   99.26 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C                        7 hrs 58 mins       █████████████████████████   99.46 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       ██████████████████░░░░░░░   70.32 % 
-Neovim                   1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+VS Code                  5 hrs 43 mins       ██████████████████░░░░░░░   71.41 % 
+Neovim                   2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
 ```
 
 **I Mostly Code in C** 
@@ -87,5 +87,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/astahjmo/astahjmo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2023 18:32:00 UTC
+ Last Updated on 30/05/2023 18:32:06 UTC
 <!--END_SECTION:waka-->
