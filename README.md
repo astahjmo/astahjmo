@@ -14,9 +14,9 @@ I choose this nickname to remember my beautiful history with the game Grand Chas
 
 discord: astaroth#0373
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.6%20thousand%20lines%20of%20code-blue)
 
@@ -59,15 +59,14 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        7 hrs 58 mins       █████████████████████████   99.46 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C                        6 hrs 34 mins       █████████████████████████   99.87 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 43 mins       ██████████████████░░░░░░░   71.41 % 
-Neovim                   2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+VS Code                  5 hrs 11 mins       ████████████████████░░░░░   78.99 % 
+Neovim                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
 ```
 
 **I Mostly Code in C** 
@@ -87,5 +86,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/astahjmo/astahjmo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2023 18:32:06 UTC
+ Last Updated on 31/05/2023 18:31:45 UTC
 <!--END_SECTION:waka-->
