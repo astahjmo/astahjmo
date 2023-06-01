@@ -14,7 +14,7 @@ I choose this nickname to remember my beautiful history with the game Grand Chas
 
 discord: astaroth#0373
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -59,14 +59,15 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        6 hrs 34 mins       █████████████████████████   99.87 % 
+C                        6 hrs 34 mins       █████████████████████████   99.33 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       ████████████████████░░░░░   78.99 % 
-Neovim                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+VS Code                  5 hrs 11 mins       ████████████████████░░░░░   78.56 % 
+Neovim                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
 ```
 
 **I Mostly Code in C** 
@@ -86,5 +87,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/astahjmo/astahjmo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 18:31:45 UTC
+ Last Updated on 01/06/2023 18:33:54 UTC
 <!--END_SECTION:waka-->
