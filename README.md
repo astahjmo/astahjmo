@@ -16,7 +16,7 @@ discord: astaroth#0373
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.3%20thousand%20lines%20of%20code-blue)
 
@@ -59,12 +59,13 @@ Sunday                   146 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Lua                      0 secs              █████████████████████░░░░   83.28 % 
-Makefile                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Python                   2 hrs 49 mins       █████████████████████████   99.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████░░░░   83.28 % 
-VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -84,5 +85,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/astahjmo/astahjmo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2023 18:32:18 UTC
+ Last Updated on 01/08/2023 18:31:51 UTC
 <!--END_SECTION:waka-->
