@@ -59,12 +59,10 @@ Sunday                   198 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     42 mins             █████████████████████████   98.59 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -84,5 +82,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/astahjmo/astahjmo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2023 18:34:27 UTC
+ Last Updated on 10/08/2023 18:31:54 UTC
 <!--END_SECTION:waka-->
