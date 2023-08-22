@@ -14,7 +14,7 @@ I choose this nickname to remember my beautiful history with the game Grand Chas
 
 discord: astaroth#0373
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,10 +59,10 @@ Sunday                   203 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Lua                      0 secs              █████████████████████████   100.00 % 
+Lua                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -82,5 +82,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/astahjmo/astahjmo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2023 18:32:00 UTC
+ Last Updated on 22/08/2023 18:32:16 UTC
 <!--END_SECTION:waka-->
