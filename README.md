@@ -12,6 +12,4 @@ I'm an aspiring enthusiast in the world of mathematics and its intricacies, a re
 
 In the realm of computer science, I hold genuine interests in computer graphics, low-level programming, compiler design, and architecture design, among other areas.
 
-I'm also starting to write blog posts, and you can check them out on my [blog](https://astahjmo.github.io/).
-
 You can find me on Discord as astaroth#0373 or 'astah.'
