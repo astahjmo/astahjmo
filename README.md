@@ -8,7 +8,7 @@ Hello, I'm astah (or astaroth).
 
 I chose this nickname to remember my beautiful history with the game [Grand Chase](https://www.koggames.com/grandchase-classic-br/).
 
-Currently, I am learning C at [42sp](https://www.42sp.org.br/) school, and during my spare time, I'm delving into Elixir and Python for real-world application development at [udel](https://udel.study).
+Currently, I am learning C at [42sp](https://www.42sp.org.br/) school, and during my spare time, I'm delving into Elixir and Python for real-world application development at udel.
 
 I'm an aspiring enthusiast in the world of mathematics and its intricacies, a realm where I find myself in a love-hate relationship. I also have a keen interest in physics and chemistry, constantly seeking opportunities to expand my knowledge during my free moments.
 
