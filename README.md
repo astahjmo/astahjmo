@@ -4,9 +4,7 @@
   <img src="https://i.imgur.com/5HXDsn9.gif" width="500" alt="Grandark" href="https://www.artstation.com/artwork/dOBdmX" title="Grandark">
 </p>
 
-Hello, I'm astah (or astaroth).
-
-I chose this nickname to remember my beautiful history with the game [Grand Chase](https://www.koggames.com/grandchase-classic-br/).
+Hello, I'm Johnatan!.
 
 Currently, I am learning C at [42sp](https://www.42sp.org.br/) school, and during my spare time, I'm delving into Elixir and Python for real-world application development at udel.
 
